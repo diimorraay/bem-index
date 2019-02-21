@@ -1,0 +1,37 @@
+h2{
+	color:red;
+	font-size: 45px;
+
+}
+
+h1{
+	color:salmon;
+	font-family: Calibri;
+	font-size: 150px;
+	letter-spacing: 10px
+;
+}
+	
+
+
+p{font-weight: bolder;
+	border-radius: 50%
+	}
+
+img{
+	border: groove;
+    
+}
+
+#diim {
+	border-radius:50%;
+} 
+element.style {
+    width: 220px;
+    border-radius: 50%;
+}
+
+
+
+
+
